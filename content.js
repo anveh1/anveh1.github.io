@@ -250,7 +250,7 @@ window.SITE = {
   /* Visitor tracking — see README "Set up visitor tracking".
      Paste the two numbers Statcounter gives you. Leave "" to turn tracking off. */
   statcounter: {
-    project: "",
-    security: "",
+    project: "13365965",
+    security: "b70706eb",
   },
 };
