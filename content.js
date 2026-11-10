@@ -171,7 +171,7 @@ window.SITE = {
       dates: "Summer 2018",
       title: "Summer Associate, Product Strategy",
       company: "Fiserv",
-      link: "",
+      link: "https://www.fiserv.com/",
       place: "Alpharetta, GA",
       summary: "",
       highlights: ["Analyzed BI practices and recommended a unified approach worth $2M in savings."],
@@ -181,7 +181,7 @@ window.SITE = {
       dates: "2013 — 2017",
       title: "Attorney, IT Department",
       company: "FWMK Law Offices",
-      link: "",
+      link: "https://www.fwmk-law.co.il/",
       place: "Tel Aviv",
       summary: "",
       highlights: [
@@ -194,7 +194,7 @@ window.SITE = {
       dates: "2011 — 2013",
       title: "Senior Analyst",
       company: "FINAL (algo-trading fintech)",
-      link: "",
+      link: "https://www.final.co.il/",
       place: "Herzliya",
       summary: "",
       highlights: [
