@@ -131,7 +131,7 @@
 
     if (M.timeline?.length) {
       const now = new Date().getFullYear() + new Date().getMonth() / 12;
-      const rows = M.timeline.map((t) => ({ ...t, end: t.end === "now" ? now : t.end }));
+      const rows = M.timeline.map((t) => ({ ...t, end: t.end === "now" ? now : t.end })).sort((a, b) => b.start - a.start);
       const min = Math.floor(Math.min(...rows.map((r) => r.start)));
       const max = Math.ceil(now);
       const x = (v) => ((v - min) / (max - min)) * 100;
