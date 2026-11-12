@@ -27,7 +27,7 @@ window.SITE = {
   name: "Anveh Turel",
   role: "Data, Digital & AI Transformation Leader",
   location: "Haifa Metro, Israel",
-  tagline: "15+ years turning customer data and generative AI into measurable growth, from first idea to production at enterprise scale.",
+  tagline: "15+ years turning customer data and generative AI into measurable growth, including 10 years in the US and corporate America, from first idea to production at enterprise scale.",
   status: "Open to new opportunities",  // set to "" to hide the badge
   photo: "images/me.jpg",               // leave "" to show your initials instead
   resumePdf: "",                        // TODO e.g. "resume.pdf" — leave "" to hide the button
@@ -43,7 +43,7 @@ window.SITE = {
   about: {
     heading: "Where business, data and AI meet",
     paragraphs: [
-      "I lead data, digital and AI transformation for large eCommerce businesses. At The Home Depot I direct a 40-person Digital CX and UGC Analytics organization supporting a $25B online business, and I own a $15M P&L.",
+      "I lead data, digital and AI transformation for large eCommerce businesses, and I bring 10 years of experience in the US and corporate America. At The Home Depot I direct a 40-person Digital CX and UGC Analytics organization supporting a $25B online business, and I own a $15M P&L.",
       "I care about getting AI out of the slide deck and into production. Recent work includes an AI 'closing the loop' model that cut manual effort by about 83%, generative AI product Q&A answering 120,000+ unanswered customer questions, and review summarization that lifted conversion 16%. I also build my own tools: two AI-enabled stock valuation apps in Python and Streamlit, automated with GitHub Actions.",
       "My path is unusual: Captain in an IDF special-forces unit, attorney advising tech startups, analyst at an algo-trading fintech, then a STEM MBA at Carnegie Mellon. That mix taught me to lead under pressure, think precisely, and connect strategy with hands-on execution.",
     ],
