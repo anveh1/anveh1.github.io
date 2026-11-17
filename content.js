@@ -198,8 +198,9 @@ window.SITE = {
       place: "Herzliya",
       summary: "",
       highlights: [
-        "Analyzed trading data to fix automation failures, adding $100K+ in annual revenue.",
-        "Led API optimization that cut internal redundancies by 25%.",
+        "Ran real-time trading systems and Tier 1 support, keeping 99.9% uptime.",
+        "Debugged new releases end to end (QA, troubleshooting, fixes) to keep trading running.",
+        "Trained and mentored new team members to speed up onboarding.",
       ],
       tags: [],
     },
